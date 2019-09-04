@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 16
-  productGUID: d7bf7e77dac47ab4590e28444aa8ad0d
+  productGUID: 030781de497cbc249a4195adee0e1ee7
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -17,7 +17,7 @@ PlayerSettings:
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
-  m_ShowUnitySplashScreen: 0
+  m_ShowUnitySplashScreen: 1
   m_ShowUnitySplashLogo: 1
   m_SplashScreenOverlayOpacity: 1
   m_SplashScreenAnimation: 1
@@ -47,7 +47,7 @@ PlayerSettings:
   defaultScreenWidthWeb: 960
   defaultScreenHeightWeb: 600
   m_StereoRenderingPath: 0
-  m_ActiveColorSpace: 1
+  m_ActiveColorSpace: 0
   m_MTRendering: 1
   m_StackTraceTypes: 010000000100000001000000010000000100000001000000
   iosShowActivityIndicatorOnLoading: -1
@@ -79,7 +79,7 @@ PlayerSettings:
   usePlayerLog: 1
   bakeCollisionMeshes: 0
   forceSingleInstance: 0
-  resizableWindow: 1
+  resizableWindow: 0
   useMacAppStoreValidation: 0
   macAppStoreCategory: public.app-category.games
   gpuSkinning: 1
@@ -148,7 +148,7 @@ PlayerSettings:
     oculus:
       sharedDepthBuffer: 1
       dashSupport: 1
-    enable360StereoCapture: 1
+    enable360StereoCapture: 0
   isWsaHolographicRemotingEnabled: 0
   protectGraphicsMemory: 0
   enableFrameTimingStats: 0
@@ -301,7 +301,7 @@ PlayerSettings:
     m_Automatic: 1
   m_BuildTargetVRSettings:
   - m_BuildTarget: Standalone
-    m_Enabled: 1
+    m_Enabled: 0
     m_Devices:
     - Oculus
     - OpenVR
@@ -613,7 +613,6 @@ PlayerSettings:
       daydreamIconForeground: {fileID: 0}
       daydreamIconBackground: {fileID: 0}
   cloudServicesEnabled:
-    Collab: 1
     UNet: 1
   luminIcon:
     m_Name: 
@@ -634,10 +633,10 @@ PlayerSettings:
   facebookXfbml: 0
   facebookFrictionlessRequests: 1
   apiCompatibilityLevel: 6
-  cloudProjectId: 7032ef1d-0da0-4d78-b17c-3122056d121e
+  cloudProjectId: 
   framebufferDepthMemorylessMode: 0
-  projectName: Conada
-  organizationId: shrnkm
+  projectName: 
+  organizationId: 
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
   disableOldInputManagerSupport: 0
