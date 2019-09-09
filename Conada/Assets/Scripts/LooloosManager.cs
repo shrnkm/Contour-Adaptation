@@ -2,8 +2,7 @@
 
 public class LooloosManager : MonoBehaviour
 {
-
-    /*
+    
     public GameObject enemy;                // The enemy prefab to be spawned.
     public float spawnTime = 3f;            // How long between each spawn.
     public Transform[] spawnPoints;         // An array of the spawn points this enemy can spawn from.
@@ -19,7 +18,7 @@ public class LooloosManager : MonoBehaviour
     void Spawn ()
     {
         // If the player has no health left...
-        if(playerHealth.currentHealth <= 0f)
+        if(Player.health <= 0f)
         {
             // ... exit the function.
             return;
@@ -30,5 +29,5 @@ public class LooloosManager : MonoBehaviour
 
         // Create an instance of the enemy prefab at the randomly selected spawn point's position and rotation.
         Instantiate (enemy, spawnPoints[spawnPointIndex].position, spawnPoints[spawnPointIndex].rotation);
-    }*/
+    }
 }
