@@ -32,6 +32,19 @@ public class CountdownScript : MonoBehaviour
             doOnce = true;
             uiText.text = "0.00";
             timer = 0.0f;
+            Go2Test();
         }
+    }
+
+    public void ResetButton()
+    {
+        timer = mainTimer;
+        canCount = true;
+        doOnce = false;
+    }
+
+    void Go2Test()
+    {
+        
     }
 }
