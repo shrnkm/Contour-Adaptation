@@ -10,7 +10,7 @@ public class Player : MonoBehaviour
 
     private void OnTriggerEnter(Collider other)
     {
-        health -= 1;
+        //health -= 1;
     }
 
 
