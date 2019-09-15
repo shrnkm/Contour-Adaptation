@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ContentModelStore">
     <e p="C:\Users\sahar\.Rider2019.1\system\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\sahar\.Rider2019.1\system\resharper-host\local\Transient\ReSharperHost\v191\SolutionCaches\_Conada.1484434219.00" t="ExcludeRecursive" />
-    <e p="D:\Ex-Unity\Contour-Adaptation\Conada\Conada" t="IncludeRecursive">
+    <e p="C:\Users\sahar\.Rider2019.1\system\resharper-host\local\Transient\ReSharperHost\v191\SolutionCaches\_Conada.520800795.00" t="ExcludeRecursive" />
+    <e p="D:\Ex-Unity\Contour-Adaptation\Conada" t="IncludeRecursive">
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
         <e p="Scripts" t="Include">
@@ -11,8 +11,8 @@
           <e p="Looloo.cs" t="Include" />
           <e p="LooloosManager.cs" t="Include" />
           <e p="playa.cs" t="Include" />
-          <e p="Player.cs" t="Include" />
           <e p="ViveGrabShoot.cs" t="Include" />
+          <e p="Weapon.cs" t="Include" />
         </e>
         <e p="SteamVR" t="Include">
           <e p="Editor" t="Include">
@@ -288,6 +288,7 @@
             <e p="SteamVR_TrackedObject.cs" t="Include" />
             <e p="SteamVR_TrackingReferenceManager.cs" t="Include" />
             <e p="SteamVR_Utils.cs" t="Include" />
+            <e p="StreamVR_TrackedController.cs" t="Include" />
           </e>
           <e p="SteamVR.asmdef" t="Include" />
           <e p="WindowsHelper" t="Include">
@@ -301,7 +302,6 @@
             <e p="SteamVR_Input_ActionSet_default.cs" t="Include" />
             <e p="SteamVR_Input_ActionSet_mixedreality.cs" t="Include" />
             <e p="SteamVR_Input_ActionSet_platformer.cs" t="Include" />
-            <e p="SteamVR_Input_ActionSet_shooting.cs" t="Include" />
           </e>
           <e p="SteamVR_Actions.asmdef" t="Include" />
           <e p="SteamVR_Input_Actions.cs" t="Include" />

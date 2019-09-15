@@ -18,7 +18,7 @@ public class LooloosManager : MonoBehaviour
     void Spawn ()
     {
         // If the player has no health left...
-        if(Player.health <= 0f)
+        if(playa.health <= 0f)
         {
             // ... exit the function.
             return;

@@ -5,7 +5,6 @@ using System.Collections;
 public class Looloo : MonoBehaviour
 {
     public float MoveSpeed;
-
     private GameObject Playa;
     private Transform PlayaTransform;
     //public Transform playa;
@@ -14,7 +13,6 @@ public class Looloo : MonoBehaviour
     {
         Playa = GameObject.Find("/Playa"); //"/BodyCollider");
         PlayaTransform = Playa.transform;
-        print(PlayaTransform);
     }
     
     

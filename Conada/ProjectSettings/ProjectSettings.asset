@@ -619,7 +619,10 @@ PlayerSettings:
       daydreamIconForeground: {fileID: 0}
       daydreamIconBackground: {fileID: 0}
   cloudServicesEnabled:
+    Build: 0
     Collab: 1
+    ErrorHub: 0
+    Hub: 0
     UNet: 1
   luminIcon:
     m_Name: 
@@ -640,7 +643,7 @@ PlayerSettings:
   facebookXfbml: 0
   facebookFrictionlessRequests: 1
   apiCompatibilityLevel: 6
-  cloudProjectId: 02f628c8-fe03-431c-8d4f-7ed83e48d009
+  cloudProjectId: 43e61781-bb6a-4e85-8281-59c0a8350bf3
   framebufferDepthMemorylessMode: 0
   projectName: Conada
   organizationId: shrnkm
