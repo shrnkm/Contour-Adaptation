@@ -9,6 +9,7 @@ public class playa : MonoBehaviour
     public static int health = 5;
     private AudioSource source;
     public AudioClip scream;
+    public RectTransform blood;
     
     // Start is called before the first frame update
     void Start()
@@ -25,14 +26,15 @@ public class playa : MonoBehaviour
         {
             Death();
         }
+        
     }
     
     private void OnTriggerEnter(Collider other)
     {
-        print("goozz");
-        //health -= 1;
+        health -= 1;
         source.clip = scream;
         source.PlayOneShot(scream);
+        //blood.gameObject.SetActive(true);
     }
 
 

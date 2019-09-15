@@ -8,8 +8,10 @@
       <e p="Assets" t="Include">
         <e p="Scripts" t="Include">
           <e p="CountdownScript.cs" t="Include" />
+          <e p="HealthBar.cs" t="Include" />
           <e p="Looloo.cs" t="Include" />
           <e p="LooloosManager.cs" t="Include" />
+          <e p="Menu.cs" t="Include" />
           <e p="playa.cs" t="Include" />
           <e p="ViveGrabShoot.cs" t="Include" />
           <e p="Weapon.cs" t="Include" />

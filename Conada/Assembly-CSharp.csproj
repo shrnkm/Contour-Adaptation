@@ -66,8 +66,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\CountdownScript.cs" />
+    <Compile Include="Assets\Scripts\HealthBar.cs" />
     <Compile Include="Assets\Scripts\Looloo.cs" />
     <Compile Include="Assets\Scripts\LooloosManager.cs" />
+    <Compile Include="Assets\Scripts\Menu.cs" />
     <Compile Include="Assets\Scripts\playa.cs" />
     <Compile Include="Assets\Scripts\ViveGrabShoot.cs" />
     <Compile Include="Assets\Scripts\Weapon.cs" />

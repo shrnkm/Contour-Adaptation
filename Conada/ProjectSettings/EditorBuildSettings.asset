@@ -11,4 +11,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/ContourTest.unity
     guid: 2752b89f1a9ff124c8f17dd861eca725
+  - enabled: 1
+    path: Assets/Scenes/Death.unity
+    guid: 7bd702dcd00ab6549b2777cfe03b078c
   m_configObjects: {}

@@ -25,6 +25,41 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/HealthBar.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="645">
+              <caret line="43" column="29" selection-start-line="43" selection-start-column="29" selection-end-line="43" selection-end-column="29" />
+              <folding>
+                <marker date="1568580215496" expanded="true" signature="6:113" ph="..." />
+                <marker date="1568580215496" expanded="true" signature="153:994" ph="{...}" />
+                <marker date="1568580215496" expanded="true" signature="386:407" ph="{...}" />
+                <marker date="1568580215496" expanded="true" signature="465:992" ph="{...}" />
+                <marker date="1568580215496" expanded="true" signature="502:559" ph="{...}" />
+                <marker date="1568580215496" expanded="true" signature="590:647" ph="{...}" />
+                <marker date="1568580215496" expanded="true" signature="678:735" ph="{...}" />
+                <marker date="1568580215496" expanded="true" signature="766:823" ph="{...}" />
+                <marker date="1568580215496" expanded="true" signature="854:986" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Menu.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" selection-start-line="3" selection-end-line="3" selection-end-column="34" />
+              <folding>
+                <marker date="1568579318007" expanded="true" signature="6:113" ph="..." />
+                <marker date="1568579318007" expanded="true" signature="148:305" ph="{...}" />
+                <marker date="1568579318007" expanded="true" signature="176:216" ph="{...}" />
+                <marker date="1568579318007" expanded="true" signature="244:303" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/Looloo.cs">
           <provider selected="true" editor-type-id="text-editor">
@@ -45,7 +80,7 @@
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/CountdownScript.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="694">
-              <caret line="52" column="46" selection-start-line="52" selection-start-column="46" selection-end-line="52" selection-end-column="46" />
+              <caret line="52" column="46" lean-forward="true" selection-start-line="52" selection-start-column="21" selection-end-line="52" selection-end-column="46" />
               <folding>
                 <marker date="1568557205823" expanded="true" signature="6:149" ph="..." />
                 <marker date="1568557205823" expanded="true" signature="195:1174" ph="{...}" />
@@ -60,19 +95,19 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/playa.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="36" selection-start-line="36" selection-end-line="36" />
+            <state relative-caret-position="495">
+              <caret line="33" column="8" selection-start-line="33" selection-start-column="8" selection-end-line="33" selection-end-column="8" />
               <folding>
-                <marker date="1568571296789" expanded="true" signature="6:78" ph="..." />
-                <marker date="1568571296789" expanded="true" signature="114:859" ph="{...}" />
-                <marker date="1568571296789" expanded="true" signature="346:449" ph="{...}" />
-                <marker date="1568571296789" expanded="true" signature="507:639" ph="{...}" />
-                <marker date="1568571296789" expanded="true" signature="592:633" ph="{...}" />
-                <marker date="1568571296789" expanded="true" signature="692:817" ph="{...}" />
-                <marker date="1568571296789" expanded="true" signature="836:857" ph="{...}" />
+                <marker date="1568575757259" expanded="true" signature="6:78" ph="..." />
+                <marker date="1568575757259" expanded="true" signature="114:918" ph="{...}" />
+                <marker date="1568575757259" expanded="true" signature="378:481" ph="{...}" />
+                <marker date="1568575757259" expanded="true" signature="539:680" ph="{...}" />
+                <marker date="1568575757259" expanded="true" signature="624:665" ph="{...}" />
+                <marker date="1568575757259" expanded="true" signature="733:876" ph="{...}" />
+                <marker date="1568575757259" expanded="true" signature="895:916" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -87,8 +122,11 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/playa.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/CountdownScript.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/LooloosManager.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/SteamVR/Scripts/StreamVR_TrackedController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/SteamVR/Input/SteamVR_Action_Pose.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Menu.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Looloo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/HealthBar.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/SteamVR/Scripts/StreamVR_TrackedController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Weapon.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -103,8 +141,10 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/PlayerX.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/BodyCollider.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Body.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/playa.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/LooloosManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/playa.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Menu.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/HealthBar.cs" />
       </list>
     </option>
   </component>
@@ -197,12 +237,12 @@
       <workItem from="1568401324266" duration="1156000" />
       <workItem from="1568403394629" duration="599000" />
       <workItem from="1568408070413" duration="3746000" />
-      <workItem from="1568543165762" duration="9730000" />
+      <workItem from="1568543165762" duration="14813000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20592000" />
+    <option name="totallyTimeSpent" value="25675000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -360,23 +400,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/CountdownScript.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="694">
-          <caret line="52" column="46" selection-start-line="52" selection-start-column="46" selection-end-line="52" selection-end-column="46" />
-          <folding>
-            <marker date="1568557205823" expanded="true" signature="6:149" ph="..." />
-            <marker date="1568557205823" expanded="true" signature="195:1174" ph="{...}" />
-            <marker date="1568557205823" expanded="true" signature="450:489" ph="{...}" />
-            <marker date="1568557205823" expanded="true" signature="516:974" ph="{...}" />
-            <marker date="1568557205823" expanded="true" signature="561:756" ph="{...}" />
-            <marker date="1568557205823" expanded="true" signature="808:968" ph="{...}" />
-            <marker date="1568557205823" expanded="true" signature="1005:1093" ph="{...}" />
-            <marker date="1568557205823" expanded="true" signature="1113:1172" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/Body.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -399,16 +422,190 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/playa.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="36" selection-start-line="36" selection-end-line="36" />
+        <state relative-caret-position="495">
+          <caret line="33" column="8" selection-start-line="33" selection-start-column="8" selection-end-line="33" selection-end-column="8" />
           <folding>
-            <marker date="1568571296789" expanded="true" signature="6:78" ph="..." />
-            <marker date="1568571296789" expanded="true" signature="114:859" ph="{...}" />
-            <marker date="1568571296789" expanded="true" signature="346:449" ph="{...}" />
-            <marker date="1568571296789" expanded="true" signature="507:639" ph="{...}" />
-            <marker date="1568571296789" expanded="true" signature="592:633" ph="{...}" />
-            <marker date="1568571296789" expanded="true" signature="692:817" ph="{...}" />
-            <marker date="1568571296789" expanded="true" signature="836:857" ph="{...}" />
+            <marker date="1568575757259" expanded="true" signature="6:78" ph="..." />
+            <marker date="1568575757259" expanded="true" signature="114:918" ph="{...}" />
+            <marker date="1568575757259" expanded="true" signature="378:481" ph="{...}" />
+            <marker date="1568575757259" expanded="true" signature="539:680" ph="{...}" />
+            <marker date="1568575757259" expanded="true" signature="624:665" ph="{...}" />
+            <marker date="1568575757259" expanded="true" signature="733:876" ph="{...}" />
+            <marker date="1568575757259" expanded="true" signature="895:916" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/CountdownScript.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="694">
+          <caret line="52" column="46" lean-forward="true" selection-start-line="52" selection-start-column="21" selection-end-line="52" selection-end-column="46" />
+          <folding>
+            <marker date="1568557205823" expanded="true" signature="6:149" ph="..." />
+            <marker date="1568557205823" expanded="true" signature="195:1174" ph="{...}" />
+            <marker date="1568557205823" expanded="true" signature="450:489" ph="{...}" />
+            <marker date="1568557205823" expanded="true" signature="516:974" ph="{...}" />
+            <marker date="1568557205823" expanded="true" signature="561:756" ph="{...}" />
+            <marker date="1568557205823" expanded="true" signature="808:968" ph="{...}" />
+            <marker date="1568557205823" expanded="true" signature="1005:1093" ph="{...}" />
+            <marker date="1568557205823" expanded="true" signature="1113:1172" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/SteamVR/Input/SteamVR_Action_Pose.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-889">
+          <caret line="568" selection-start-line="568" selection-end-line="568" />
+          <folding>
+            <marker date="1568036882200" expanded="false" signature="87:227" ph="..." />
+            <marker date="1568036882200" expanded="true" signature="247:43940" ph="{...}" />
+            <marker date="1568036882200" expanded="true" signature="273:663" ph="/* Pose actions represent a position, rotation, and velocities inside the tracked space.  ... */" />
+            <marker date="1568036882200" expanded="true" signature="847:11889" ph="{...}" />
+            <marker date="1568036882200" expanded="true" signature="1859:2014" ph="{...}" />
+            <marker date="1568036882200" expanded="true" signature="2224:2393" ph="{...}" />
+            <marker date="1568036882200" expanded="true" signature="2610:2753" ph="{...}" />
+            <marker date="1568036882200" expanded="true" signature="2926:3069" ph="{...}" />
+            <marker date="1568036882200" expanded="true" signature="3275:3436" ph="{...}" />
+            <marker date="1568036882200" expanded="true" signature="3643:3806" ph="{...}" />
+            <marker date="1568036882200" expanded="true" signature="4047:4222" ph="{...}" />
+            <marker date="1568036882200" expanded="true" signature="4232:4608" ph="///Fires an event when a device is connected or disconnected. ... " />
+            <marker date="1568036882200" expanded="true" signature="4736:4835" ph="{...}" />
+            <marker date="1568036882200" expanded="true" signature="4845:5245" ph="///Stops executing the function setup by the corresponding AddListener ... " />
+            <marker date="1568036882200" expanded="true" signature="5383:5489" ph="{...}" />
+            <marker date="1568036882200" expanded="true" signature="5500:5875" ph="///Fires an event when the tracking of the device has changed ... " />
+            <marker date="1568036882200" expanded="true" signature="5989:6081" ph="{...}" />
+            <marker date="1568036882200" expanded="true" signature="6091:6490" ph="///Stops executing the function setup by the corresponding AddListener ... " />
+            <marker date="1568036882200" expanded="true" signature="6614:6713" ph="{...}" />
+            <marker date="1568036882200" expanded="true" signature="6724:7138" ph="///Fires an event when the device now has a valid pose or no longer has a valid pose ... " />
+            <marker date="1568036882200" expanded="true" signature="7254:7347" ph="{...}" />
+            <marker date="1568036882200" expanded="true" signature="7357:7772" ph="///Stops executing the function setup by the corresponding AddListener ... " />
+            <marker date="1568036882200" expanded="true" signature="7898:7998" ph="{...}" />
+            <marker date="1568036882200" expanded="true" signature="8009:8222" ph="///Executes a function when this action's bound state changes ... " />
+            <marker date="1568036882200" expanded="true" signature="8339:8428" ph="{...}" />
+            <marker date="1568036882200" expanded="true" signature="8438:8778" ph="///Stops executing the function setup by the corresponding AddListener ... " />
+            <marker date="1568036882200" expanded="true" signature="8905:9001" ph="{...}" />
+            <marker date="1568036882200" expanded="true" signature="9011:9430" ph="///Executes a function when the state of this action (with the specified inputSource) changes ... " />
+            <marker date="1568036882200" expanded="true" signature="9535:9618" ph="{...}" />
+            <marker date="1568036882200" expanded="true" signature="9628:9971" ph="///Stops executing the function setup by the corresponding AddListener ... " />
+            <marker date="1568036882200" expanded="true" signature="10086:10176" ph="{...}" />
+            <marker date="1568036882200" expanded="true" signature="10186:10609" ph="///Executes a function when the state of this action (with the specified inputSource) is updated. ... " />
+            <marker date="1568036882200" expanded="true" signature="10714:10797" ph="{...}" />
+            <marker date="1568036882200" expanded="true" signature="10807:11147" ph="///Stops executing the function setup by the corresponding AddListener ... " />
+            <marker date="1568036882200" expanded="true" signature="11262:11352" ph="{...}" />
+            <marker date="1568036882200" expanded="true" signature="11487:11543" ph="{...}" />
+            <marker date="1568036882200" expanded="true" signature="11553:11674" ph="/// Sets all pose and skeleton actions to use the specified universe origin. ... " />
+            <marker date="1568036882200" expanded="true" signature="11762:11883" ph="{...}" />
+            <marker date="1568036882200" expanded="true" signature="11914:12013" ph="/* The base pose action (pose and skeleton inherit from this) ... */" />
+            <marker date="1568036882200" expanded="true" signature="12301:25078" ph="{...}" />
+            <marker date="1568036882200" expanded="true" signature="12316:12439" ph="/// Sets all pose (and skeleton) actions to use the specified universe origin. ... " />
+            <marker date="1568036882200" expanded="true" signature="12522:13015" ph="{...}" />
+            <marker date="1568036882200" expanded="true" signature="12633:12764" ph="{...}" />
+            <marker date="1568036882200" expanded="true" signature="12870:13005" ph="{...}" />
+            <marker date="1568036882200" expanded="true" signature="16874:17075" ph="/// &lt;strong&gt;[Should not be called by user code]&lt;/strong&gt;  ... " />
+            <marker date="1568036882200" expanded="true" signature="17147:17229" ph="{...}" />
+            <marker date="1568036882200" expanded="true" signature="17239:17795" ph="/// SteamVR keeps a log of past poses so you can retrieve old poses or estimated poses in the future by passing i ... " />
+            <marker date="1568036882200" expanded="true" signature="17949:18089" ph="{...}" />
+            <marker date="1568036882200" expanded="true" signature="18099:18655" ph="/// SteamVR keeps a log of past poses so you can retrieve old poses or estimated poses in the future by passing i ... " />
+            <marker date="1568036882200" expanded="true" signature="18860:19032" ph="{...}" />
+            <marker date="1568036882200" expanded="true" signature="19042:19416" ph="/// Update a transform's local position and local roation to match the pose from the most recent update ... " />
+            <marker date="1568036882200" expanded="true" signature="19524:19615" ph="{...}" />
+            <marker date="1568036882200" expanded="true" signature="19625:19845" ph="///The local position of this action relative to the universe origin ... " />
+            <marker date="1568036882200" expanded="true" signature="19920:19997" ph="{...}" />
+            <marker date="1568036882200" expanded="true" signature="20007:20227" ph="///The local rotation of this action relative to the universe origin ... " />
+            <marker date="1568036882200" expanded="true" signature="20305:20382" ph="{...}" />
+            <marker date="1568036882200" expanded="true" signature="20392:20610" ph="///The local velocity of this pose relative to the universe origin ... " />
+            <marker date="1568036882200" expanded="true" signature="20680:20752" ph="{...}" />
+            <marker date="1568036882200" expanded="true" signature="20762:20988" ph="///The local angular velocity of this pose relative to the universe origin ... " />
+            <marker date="1568036882200" expanded="true" signature="21065:21144" ph="{...}" />
+            <marker date="1568036882200" expanded="true" signature="21154:21378" ph="///True if the device bound to this action and input source is connected ... " />
+            <marker date="1568036882200" expanded="true" signature="21454:21535" ph="{...}" />
+            <marker date="1568036882200" expanded="true" signature="21545:21805" ph="///True if the pose retrieved for this action and input source is valid (good data from the tracking source) ... " />
+            <marker date="1568036882200" expanded="true" signature="21875:21950" ph="{...}" />
+            <marker date="1568036882200" expanded="true" signature="21960:22206" ph="///The state of the tracking system that is used to create pose data (position, rotation, etc) ... " />
+            <marker date="1568036882200" expanded="true" signature="22290:22367" ph="{...}" />
+            <marker date="1568036882200" expanded="true" signature="22379:22593" ph="///The local position for this pose during the previous update ... " />
+            <marker date="1568036882200" expanded="true" signature="22672:22753" ph="{...}" />
+            <marker date="1568036882200" expanded="true" signature="22763:22977" ph="///The local rotation for this pose during the previous update ... " />
+            <marker date="1568036882200" expanded="true" signature="23059:23140" ph="{...}" />
+            <marker date="1568036882200" expanded="true" signature="23150:23358" ph="///The velocity for this pose during the previous update ... " />
+            <marker date="1568036882200" expanded="true" signature="23432:23508" ph="{...}" />
+            <marker date="1568036882200" expanded="true" signature="23518:23734" ph="///The angular velocity for this pose during the previous update ... " />
+            <marker date="1568036882200" expanded="true" signature="23815:23898" ph="{...}" />
+            <marker date="1568036882200" expanded="true" signature="23908:24143" ph="///True if the device bound to this action was connected during the previous update ... " />
+            <marker date="1568036882200" expanded="true" signature="24223:24308" ph="{...}" />
+            <marker date="1568036882200" expanded="true" signature="24318:24526" ph="///True if the pose was valid during the previous update ... " />
+            <marker date="1568036882200" expanded="true" signature="24600:24679" ph="{...}" />
+            <marker date="1568036882200" expanded="true" signature="24689:24903" ph="///The tracking state for this pose during the previous update ... " />
+            <marker date="1568036882200" expanded="true" signature="24991:25072" ph="{...}" />
+            <marker date="1568036882200" expanded="true" signature="25084:25243" ph="/// Boolean actions are either true or false. There is an onStateUp and onStateDown event for the rising and fall ... " />
+            <marker date="1568036882200" expanded="true" signature="25395:26249" ph="{...}" />
+            <marker date="1568036882200" expanded="true" signature="25410:25576" ph="/// Sets all pose (and skeleton) actions to use the specified universe origin without going through the sourcemap ... " />
+            <marker date="1568036882200" expanded="true" signature="25657:25939" ph="{...}" />
+            <marker date="1568036882200" expanded="true" signature="25775:25929" ph="{...}" />
+            <marker date="1568036882200" expanded="true" signature="26012:26243" ph="{...}" />
+            <marker date="1568036882200" expanded="true" signature="26112:26233" ph="{...}" />
+            <marker date="1568036882200" expanded="true" signature="26343:41686" ph="{...}" />
+            <marker date="1568036882200" expanded="true" signature="28614:28789" ph="{...}" />
+            <marker date="1568036882200" expanded="true" signature="28640:28779" ph="{...}" />
+            <marker date="1568036882200" expanded="true" signature="32606:32787" ph="/// &lt;strong&gt;[Should not be called by user code]&lt;/strong&gt; Sets up the internals of the action source before SteamV ... " />
+            <marker date="1568036882200" expanded="true" signature="32899:33047" ph="{...}" />
+            <marker date="1568036882200" expanded="true" signature="33057:33278" ph="/// &lt;strong&gt;[Should not be called by user code]&lt;/strong&gt;  ... " />
+            <marker date="1568036882200" expanded="true" signature="33320:33505" ph="{...}" />
+            <marker date="1568036882200" expanded="true" signature="33515:33694" ph="///&lt;strong&gt;[Should not be called by user code]&lt;/strong&gt;  ... " />
+            <marker date="1568036882200" expanded="true" signature="33737:33789" ph="{...}" />
+            <marker date="1568036882200" expanded="true" signature="33799:33978" ph="///&lt;strong&gt;[Should not be called by user code]&lt;/strong&gt;  ... " />
+            <marker date="1568036882200" expanded="true" signature="34049:35049" ph="{...}" />
+            <marker date="1568036882200" expanded="true" signature="34529:34751" ph="{...}" />
+            <marker date="1568036882200" expanded="true" signature="34776:34881" ph="{...}" />
+            <marker date="1568036882200" expanded="true" signature="35093:35554" ph="{...}" />
+            <marker date="1568036882200" expanded="true" signature="35591:36118" ph="{...}" />
+            <marker date="1568036882200" expanded="true" signature="36128:36565" ph="/// SteamVR keeps a log of past poses so you can retrieve old poses or estimated poses in the future by passing i ... " />
+            <marker date="1568036882200" expanded="true" signature="36696:37512" ph="{...}" />
+            <marker date="1568036882200" expanded="true" signature="36930:37270" ph="{...}" />
+            <marker date="1568036882200" expanded="true" signature="37522:37959" ph="/// SteamVR keeps a log of past poses so you can retrieve old poses or estimated poses in the future by passing i ... " />
+            <marker date="1568036882200" expanded="true" signature="38143:39274" ph="{...}" />
+            <marker date="1568036882200" expanded="true" signature="38377:38818" ph="{...}" />
+            <marker date="1568036882200" expanded="true" signature="39284:39499" ph="/// Update a transform's local position and local roation to match the pose. ... " />
+            <marker date="1568036882200" expanded="true" signature="39564:39706" ph="{...}" />
+            <marker date="1568036882200" expanded="true" signature="39767:40806" ph="{...}" />
+            <marker date="1568036882200" expanded="true" signature="40881:40981" ph="{...}" />
+            <marker date="1568036882200" expanded="true" signature="41063:41170" ph="{...}" />
+            <marker date="1568036882200" expanded="true" signature="41251:41421" ph="{...}" />
+            <marker date="1568036882200" expanded="true" signature="41509:41680" ph="{...}" />
+            <marker date="1568036882200" expanded="true" signature="41692:41851" ph="/// Boolean actions are either true or false. There is an onStateUp and onStateDown event for the rising and fall ... " />
+            <marker date="1568036882200" expanded="true" signature="41921:43938" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Menu.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="3" selection-end-column="34" />
+          <folding>
+            <marker date="1568579318007" expanded="true" signature="6:113" ph="..." />
+            <marker date="1568579318007" expanded="true" signature="148:305" ph="{...}" />
+            <marker date="1568579318007" expanded="true" signature="176:216" ph="{...}" />
+            <marker date="1568579318007" expanded="true" signature="244:303" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/HealthBar.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="645">
+          <caret line="43" column="29" selection-start-line="43" selection-start-column="29" selection-end-line="43" selection-end-column="29" />
+          <folding>
+            <marker date="1568580215496" expanded="true" signature="6:113" ph="..." />
+            <marker date="1568580215496" expanded="true" signature="153:994" ph="{...}" />
+            <marker date="1568580215496" expanded="true" signature="386:407" ph="{...}" />
+            <marker date="1568580215496" expanded="true" signature="465:992" ph="{...}" />
+            <marker date="1568580215496" expanded="true" signature="502:559" ph="{...}" />
+            <marker date="1568580215496" expanded="true" signature="590:647" ph="{...}" />
+            <marker date="1568580215496" expanded="true" signature="678:735" ph="{...}" />
+            <marker date="1568580215496" expanded="true" signature="766:823" ph="{...}" />
+            <marker date="1568580215496" expanded="true" signature="854:986" ph="{...}" />
           </folding>
         </state>
       </provider>
