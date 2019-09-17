@@ -65,6 +65,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Imported_Models\UB\Simple2dWeatherEffects\Standard\D2FogsNoiseTexPE.cs" />
+    <Compile Include="Assets\Imported_Models\UB\Simple2dWeatherEffects\Standard\D2FogsPE.cs" />
+    <Compile Include="Assets\Imported_Models\UB\Simple2dWeatherEffects\Standard\EffectBase.cs" />
     <Compile Include="Assets\Scripts\CountdownScript.cs" />
     <Compile Include="Assets\Scripts\HealthBar.cs" />
     <Compile Include="Assets\Scripts\Looloo.cs" />
@@ -73,21 +76,18 @@
     <Compile Include="Assets\Scripts\playa.cs" />
     <Compile Include="Assets\Scripts\ViveGrabShoot.cs" />
     <Compile Include="Assets\Scripts\Weapon.cs" />
-    <Compile Include="Assets\UB\Simple2dWeatherEffects\Standard\D2FogsNoiseTexPE.cs" />
-    <Compile Include="Assets\UB\Simple2dWeatherEffects\Standard\D2FogsPE.cs" />
-    <Compile Include="Assets\UB\Simple2dWeatherEffects\Standard\EffectBase.cs" />
-    <None Include="Assets\Models\ZGONAssets\Shared\Shaders\ZGONBumpedDetailSpec_01.shader" />
+    <None Include="Assets\Imported_Models\ZGONAssets\Shared\Shaders\ZGONBumpedDetailSpec_01.shader" />
     <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Surface-Mobile.shader" />
     <None Include="Assets\TextMesh Pro\Resources\LineBreaking Leading Characters.txt" />
-    <None Include="Assets\UB\Simple2dWeatherEffects\Standard\D2FogsNoiseTex.shader" />
+    <None Include="Assets\Imported_Models\UB\Simple2dWeatherEffects\Standard\D2FogsNoiseTex.shader" />
     <None Include="Assets\TextMesh Pro\Resources\Shaders\TMPro_Properties.cginc" />
     <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_Bitmap-Custom-Atlas.shader" />
-    <None Include="Assets\Models\ZGONAssets\Modern_ConcreteBuildingExt_01\readme.txt" />
-    <None Include="Assets\UB\Simple2dWeatherEffects\Standard\D2Fogs.shader" />
+    <None Include="Assets\Imported_Models\ZGONAssets\Modern_ConcreteBuildingExt_01\readme.txt" />
+    <None Include="Assets\Imported_Models\UB\Simple2dWeatherEffects\Standard\D2Fogs.shader" />
     <None Include="Assets\TextMesh Pro\Resources\LineBreaking Following Characters.txt" />
     <None Include="Assets\TextMesh Pro\Sprites\EmojiOne Attribution.txt" />
     <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Mobile Masking.shader" />
-    <None Include="Assets\Models\ZGONAssets\Modern_ConcreteBuildingExt_01\Modern_ConcreteBuildingExt_01.xml" />
+    <None Include="Assets\Imported_Models\ZGONAssets\Modern_ConcreteBuildingExt_01\Modern_ConcreteBuildingExt_01.xml" />
     <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_Bitmap-Mobile.shader" />
     <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_SDF Overlay.shader" />
     <None Include="Assets\TextMesh Pro\Fonts\LiberationSans - OFL.txt" />
@@ -99,7 +99,7 @@
     <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Mobile.shader" />
     <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_Sprite.shader" />
     <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Surface.shader" />
-    <None Include="Assets\Models\ZGONAssets\Shared\Shaders\ZGONShaderOps.cginc" />
+    <None Include="Assets\Imported_Models\ZGONAssets\Shared\Shaders\ZGONShaderOps.cginc" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>D:/Ex-Unity/Contour-Adaptation/Conada/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>

@@ -22,7 +22,7 @@ namespace UB.Simple2dWeatherEffects.Standard
         public float VerticalSpeed = 0f;
         [Range(0.0f,5)]
         public float Density = 2f;
-        //public bool DarkMode = false;
+        public bool DarkMode = false;
         //public float DarkMultiplier = 1f;
 
         public Shader Shader;
@@ -35,7 +35,7 @@ namespace UB.Simple2dWeatherEffects.Standard
 
         private void Update()
         {
-            _difference = CamTransform.position - _firstPosition;
+            _difference =  (CamTransform.position - _firstPosition);
             //_previousPosition = CamTransform.position;
         }
 

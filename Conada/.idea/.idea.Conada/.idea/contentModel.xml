@@ -7,7 +7,18 @@
       <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
-        <e p="Models" t="Include">
+        <e p="Imported_Models" t="Include">
+          <e p="UB" t="Include">
+            <e p="Simple2dWeatherEffects" t="Include">
+              <e p="Standard" t="Include">
+                <e p="D2Fogs.shader" t="Include" />
+                <e p="D2FogsNoiseTex.shader" t="Include" />
+                <e p="D2FogsNoiseTexPE.cs" t="Include" />
+                <e p="D2FogsPE.cs" t="Include" />
+                <e p="EffectBase.cs" t="Include" />
+              </e>
+            </e>
+          </e>
           <e p="ZGONAssets" t="Include">
             <e p="Editor" t="Include">
               <e p="ZGONAssetPostProcessor.cs" t="Include" />
@@ -354,17 +365,6 @@
           </e>
           <e p="Sprites" t="Include">
             <e p="EmojiOne Attribution.txt" t="Include" />
-          </e>
-        </e>
-        <e p="UB" t="Include">
-          <e p="Simple2dWeatherEffects" t="Include">
-            <e p="Standard" t="Include">
-              <e p="D2Fogs.shader" t="Include" />
-              <e p="D2FogsNoiseTex.shader" t="Include" />
-              <e p="D2FogsNoiseTexPE.cs" t="Include" />
-              <e p="D2FogsPE.cs" t="Include" />
-              <e p="EffectBase.cs" t="Include" />
-            </e>
           </e>
         </e>
       </e>
