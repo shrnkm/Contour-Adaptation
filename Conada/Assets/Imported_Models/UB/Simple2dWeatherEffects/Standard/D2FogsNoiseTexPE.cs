@@ -32,12 +32,12 @@ namespace UB.Simple2dWeatherEffects.Standard
         private void Awake()
         {
             startVector = new Vector3(0.0f, 1.0f, 0.0f);
-            _firstPosition = startVector; //CamTransform.position;
+            _firstPosition = CamTransform.position;
         }
 
         private void Update()
         {
-            _difference =  (CamTransform.position - _firstPosition);
+            _difference = CamTransform.position; // - _firstPosition);
             //_previousPosition = CamTransform.position;
         }
 

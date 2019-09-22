@@ -19656,8 +19656,8 @@ Light:
   m_Enabled: 1
   serializedVersion: 9
   m_Type: 1
-  m_Color: {r: 0.4339623, g: 0.2845319, b: 0.2845319, a: 1}
-  m_Intensity: 1
+  m_Color: {r: 0.6509434, g: 0.5557583, b: 0.5557583, a: 1}
+  m_Intensity: 0.5
   m_Range: 10
   m_SpotAngle: 30
   m_InnerSpotAngle: 21.80208
@@ -42785,10 +42785,10 @@ MonoBehaviour:
   CameraSpeedMultiplier: 2
   Color: {r: 0.33962262, g: 0.33962262, b: 0.33962262, a: 1}
   Noise: {fileID: 2800000, guid: 524f825a31a4bf04db832318ea10c982, type: 3}
-  Size: 0.2
-  HorizontalSpeed: 0.01
+  Size: 0.1
+  HorizontalSpeed: 0.2
   VerticalSpeed: 0
-  Density: 0.38
+  Density: 0.89
   DarkMode: 1
   Shader: {fileID: 4800000, guid: 8616dcd1c493e4f5c82258f262d88257, type: 3}
 --- !u!114 &1484364309
@@ -42805,12 +42805,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   CamTransform: {fileID: 852406718}
   CameraSpeedMultiplier: 0.2
-  Color: {r: 0.24528301, g: 0.22792807, b: 0.22792807, a: 0.7764706}
+  Color: {r: 0.2924528, g: 0.24968849, b: 0.24968849, a: 0.7764706}
   Noise: {fileID: 2800000, guid: 524f825a31a4bf04db832318ea10c982, type: 3}
-  Size: 0.2
-  HorizontalSpeed: 0.02
-  VerticalSpeed: 0
-  Density: 1.01
+  Size: 0.1
+  HorizontalSpeed: 0.6
+  VerticalSpeed: 0.2
+  Density: 0.78
   DarkMode: 1
   Shader: {fileID: 4800000, guid: 8616dcd1c493e4f5c82258f262d88257, type: 3}
 --- !u!1 &1485517700

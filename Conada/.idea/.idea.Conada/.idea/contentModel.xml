@@ -37,6 +37,7 @@
         </e>
         <e p="Scripts" t="Include">
           <e p="CountdownScript.cs" t="Include" />
+          <e p="ExperimentPosition.cs" t="Include" />
           <e p="HeadFollower.cs" t="Include" />
           <e p="HealthBar.cs" t="Include" />
           <e p="Looloo.cs" t="Include" />
