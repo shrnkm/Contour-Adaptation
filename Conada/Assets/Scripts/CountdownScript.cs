@@ -50,6 +50,6 @@ public class CountdownScript : MonoBehaviour
 
     void Go2Test()
     {
-        SceneManager.LoadScene("ContourTest");
+        SceneManager.LoadScene("ExpExp");
     }
 }

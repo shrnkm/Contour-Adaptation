@@ -781,9 +781,9 @@ GameObject:
   - component: {fileID: 382394850569355360}
   - component: {fileID: 7765483212363836698}
   - component: {fileID: 4626391822440650293}
-  - component: {fileID: 4626391822440650294}
   - component: {fileID: 4626391822440650295}
   - component: {fileID: 1907751688340723442}
+  - component: {fileID: 8858336017616113993}
   m_Layer: 0
   m_Name: Looloo
   m_TagString: Respawn
@@ -863,19 +863,6 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 0
   m_CollisionDetection: 0
---- !u!135 &4626391822440650294
-SphereCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3681081160210248307}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 1
-  m_Enabled: 1
-  serializedVersion: 2
-  m_Radius: 2.5937529
-  m_Center: {x: -0.012559414, y: 0.12819862, z: -0.0089998245}
 --- !u!114 &4626391822440650295
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -985,6 +972,20 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+--- !u!136 &8858336017616113993
+CapsuleCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3681081160210248307}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_Enabled: 1
+  m_Radius: 2.3232603
+  m_Height: 7.1516895
+  m_Direction: 1
+  m_Center: {x: 0, y: -1.0785418, z: 0.0065021515}
 --- !u!1 &4134842750964318070
 GameObject:
   m_ObjectHideFlags: 0

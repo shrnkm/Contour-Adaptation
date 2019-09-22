@@ -14,6 +14,7 @@ namespace UB.Simple2dWeatherEffects.Standard
         private Vector3 _firstPosition;
         private Vector3 _difference;
         public float CameraSpeedMultiplier = 1f;
+        private Vector3 startVector;
 
         public Color Color = new Color(1f, 1f, 1f, 1f);
         public Texture2D Noise;
@@ -30,7 +31,8 @@ namespace UB.Simple2dWeatherEffects.Standard
 
         private void Awake()
         {
-            _firstPosition = CamTransform.position;
+            startVector = new Vector3(0.0f, 1.0f, 0.0f);
+            _firstPosition = startVector; //CamTransform.position;
         }
 
         private void Update()
