@@ -1022,7 +1022,7 @@ MonoBehaviour:
     m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
     m_FontSize: 25
     m_FontStyle: 1
-    m_BestFit: 0
+    m_BestFit: 1
     m_MinSize: 2
     m_MaxSize: 40
     m_Alignment: 0
@@ -1038,8 +1038,13 @@ MonoBehaviour:
     First you will see the picture below and after 5 seconds you will see flickers
     around the Looloo spiders for about 10 seconds. As soon as the flicker stops,
     one of the Looloo spiders will be gone and you have to shoot the one remained
-    to save your life. You have to shoot within the first second after the flicker
-    and without moving your eyes from the fixation point (green crosshair).
+    to save your life. You have to shoot within the seconds after the flicker and
+    without moving your eyes from the fixation point (green crosshair). This experiment
+    will repeat 10 times and if you''re not fast enough the trial won''t count towards
+    your final score.
+
+    Just dont forget to keep focus on the fixation point; if you deviate your eyes
+    in a trial, please DO NOT SHOOT in that trial!
 
     If and when you''re ready click the ''Ready!'' button.'
 --- !u!222 &1605496956

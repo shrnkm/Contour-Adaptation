@@ -37,6 +37,7 @@
         </e>
         <e p="Scripts" t="Include">
           <e p="CountdownScript.cs" t="Include" />
+          <e p="ExpController.cs" t="Include" />
           <e p="ExperimentPosition.cs" t="Include" />
           <e p="HeadFollower.cs" t="Include" />
           <e p="HealthBar.cs" t="Include" />
@@ -319,10 +320,10 @@
             <e p="SteamVR_Skybox.cs" t="Include" />
             <e p="SteamVR_SphericalProjection.cs" t="Include" />
             <e p="SteamVR_TrackedCamera.cs" t="Include" />
+            <e p="SteamVR_TrackedController.cs" t="Include" />
             <e p="SteamVR_TrackedObject.cs" t="Include" />
             <e p="SteamVR_TrackingReferenceManager.cs" t="Include" />
             <e p="SteamVR_Utils.cs" t="Include" />
-            <e p="StreamVR_TrackedController.cs" t="Include" />
           </e>
           <e p="SteamVR.asmdef" t="Include" />
           <e p="WindowsHelper" t="Include">
