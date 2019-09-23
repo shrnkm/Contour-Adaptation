@@ -5,3 +5,5 @@ Conada is a VR game, designed using Unity game engine, to test the independent f
 To Write
 ---------
 "the idea, approach and learning progress of the project (this could be part of the repo). In this document you should also state what kind of grade you think is suitable and why."
+
+https://www.youtube.com/watch?v=qwKKVNmEQOk&list=LLKwBxAmOMQEteYHg-L_r2Wg&index=4&t=233s
