@@ -14,7 +14,10 @@ In his papers, Goodale employed visual illusions to prove his point. The basic e
 <br>
 <br>
 So, the idea behind Conada game-experiment was to replicate the same experiment, but in VR environment which seems to have greater potentials for setting the stage for a visual illusion.<br><br>
-Conada is a try to construct the [**Con**tour **ada**ptation illusion](https://michaelbach.de/ot/lum-contourAdapt/index.html) in VR environment.
+Conada is a try to construct the [**Con**tour **ada**ptation illusion](https://michaelbach.de/ot/lum-contourAdapt/index.html) in VR environment.<br>
+The first 5 minutes of Conada is a first player shooter game to familiarize the subject with an enemy named *Looloo spider*. the player/subjects need to fight (by shooting to spiders) or flight (by running away from them) in order to keep alive for 5 minutes. The reason behind this stage was to condition the subject/player to be alarmed by seeing a Looloo spider and decide to act fast, almost reflectively. In way that their reaction to recognizing Looloo spider become mostly relied on the ventral/motion visual path.
+If the subject/player loses all of their 5 hearts, they will directed to the death scene, from where they can either exit the experiment or repeat it.<br>
+If the subject/player manage to stay alive for 5 minutes they will be directed to the experiment guide scene where they can read the instructions for the experiment. Upon they agreement to doing the experiment, they can either exit or press the 'Ready!' button and start the experiment.<br>
 "the idea, approach and learning progress of the project (this could be part of the repo). In this document you should also state what kind of grade you think is suitable and why."
 
 https://www.youtube.com/watch?v=qwKKVNmEQOk&list=LLKwBxAmOMQEteYHg-L_r2Wg&index=4&t=233s
