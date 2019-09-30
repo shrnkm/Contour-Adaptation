@@ -1,6 +1,9 @@
 # Conada
 
 Conada is a VR game, designed using Unity game engine, to test the independent functionality of our two distinct cortical visual pathways (i.e. the dorsal action stream and the ventral perception stream), based on Goodale's idea, but using the *contour adaptation* illusion and in a VR setup.
+<br><br>
+## [Conada demo video](https://drive.google.com/open?id=1vbW_1EEhK2l4irJGXOWgsYVBBa1uOW9v)
+<br><br>
 
 # The Report
 ## Idea
@@ -10,6 +13,8 @@ In his papers, Goodale employed visual illusions to prove his point. The basic e
 <br>Though, there are controversies about his results and some other researchers claimed that the replication of his experiment showed no meaningful judgement inconsistency or some interpreted the inconsistency not as a direct result of independent functionality of two paths.
 <br>
 <br>
+So, the idea behind Conada game-experiment was to replicate the same experiment, but in VR environment which seems to have greater potentials for setting the stage for a visual illusion.<br><br>
+Conada is a try to construct the [**Con**tour **ada**ptation illusion](https://michaelbach.de/ot/lum-contourAdapt/index.html) in VR environment.
 "the idea, approach and learning progress of the project (this could be part of the repo). In this document you should also state what kind of grade you think is suitable and why."
 
 https://www.youtube.com/watch?v=qwKKVNmEQOk&list=LLKwBxAmOMQEteYHg-L_r2Wg&index=4&t=233s
@@ -19,4 +24,3 @@ https://www.youtube.com/watch?v=qwKKVNmEQOk&list=LLKwBxAmOMQEteYHg-L_r2Wg&index=
 2. *Goodale, M. A. (2011). Transforming vision into action. Vision research, 51(13), 1567-1587.*
 3. *Ganel, T., Tanzer, M., & Goodale, M. A. (2008). A double dissociation between action and perception in the context of visual illusions: opposite effects of real and illusory size. Psychological Science, 19(3), 221-225.*
 4. *Goodale, M. A. (2008). Action without perception in human vision. Cognitive Neuropsychology, 25(7-8), 891-919.*
-5. *https://michaelbach.de/ot/lum-contourAdapt/index.html*
