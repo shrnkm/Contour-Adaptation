@@ -18,9 +18,16 @@ Conada is a try to construct the [**Con**tour **ada**ptation illusion](https://m
 The first 5 minutes of Conada is a first player shooter game to familiarize the subject with an enemy named *Looloo spider*. the player/subjects need to fight (by shooting to spiders) or flight (by running away from them) in order to keep alive for 5 minutes. The reason behind this stage was to condition the subject/player to be alarmed by seeing a Looloo spider and decide to act fast, almost reflectively. In way that their reaction to recognizing Looloo spider become mostly relied on the ventral/motion visual path.
 If the subject/player loses all of their 5 hearts, they will directed to the death scene, from where they can either exit the experiment or repeat it.<br>
 If the subject/player manage to stay alive for 5 minutes they will be directed to the experiment guide scene where they can read the instructions for the experiment. Upon they agreement to doing the experiment, they can either exit or press the 'Ready!' button and start the experiment.<br>
-"the idea, approach and learning progress of the project (this could be part of the repo). In this document you should also state what kind of grade you think is suitable and why."
+<br>
+During the experiment the subject will be asked to do the *contour adaptation* task, but with shadows of two Looloo spiders. One shadow will disappear at the end of the experiment, while flickers stop and the player/subject is instructed to shoot the remaining one without deviating their eyes from the fixation points. The experiment will be repeated multiple times. And the result will be recorded.
+<br>The assumption is that if the participant shoot the right side of the screen for too many trials to be considered random (regarding the p-value), it means that the dorsal path is functioning independent from the ventral one.
+<br><br>
+## Grade
+First of all, I'm very proud of the idea behind this project, that is, implementing visual illusions in VR. VR has great potentials for testing the weaknesses of human brain. And I did not find many researches on using VR for 'brain hack,' so to say. Therefore, I'll give myself a straight A (1.0) for this part.
+<br><br>
+Another strong part of my work is that is relied on scientific studies..
+<br><br>But with the implementation, I had problems. Though, since it was more about the experiment rather than VR-technicality, I guess I deserve a shiny 1.0.
 
-https://www.youtube.com/watch?v=qwKKVNmEQOk&list=LLKwBxAmOMQEteYHg-L_r2Wg&index=4&t=233s
 
 ## References
 1. *Goodale, M. A., & Ganel, T. (2015). Different modes of visual organization for perception and for action. Oxford handbook of perceptual organization, 3(1), 1-19.*
