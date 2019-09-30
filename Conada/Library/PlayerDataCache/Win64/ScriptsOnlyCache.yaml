@@ -2,6 +2,7 @@ ScriptsOnlyBuild:
   usedScripts:
     Assembly-CSharp.dll:
     - CountdownScript
+    - ExpController
     - ExperimentPosition
     - HeadFollower
     - HealthBar
@@ -14,6 +15,7 @@ ScriptsOnlyBuild:
     - Weapon
     - playa
     SteamVR.dll:
+    - SteamVR_TrackedController
     - Valve.VR.InteractionSystem.BodyCollider
     - Valve.VR.InteractionSystem.ControllerButtonHints
     - Valve.VR.InteractionSystem.ControllerHoverHighlight
@@ -159,11 +161,13 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 10944}
     - Class: 114
-      Script: {instanceID: 11094}
+      Script: {instanceID: 10998}
     - Class: 114
-      Script: {instanceID: 11152}
+      Script: {instanceID: 11096}
     - Class: 114
-      Script: {instanceID: 38732}
+      Script: {instanceID: 11112}
+    - Class: 114
+      Script: {instanceID: 11156}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 120
@@ -349,11 +353,11 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 10944}
     - Class: 114
-      Script: {instanceID: 11050}
+      Script: {instanceID: 11052}
     - Class: 114
-      Script: {instanceID: 11094}
+      Script: {instanceID: 11096}
     - Class: 114
-      Script: {instanceID: 11152}
+      Script: {instanceID: 11156}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 120
@@ -514,17 +518,19 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 10740}
     - Class: 114
+      Script: {instanceID: 10830}
+    - Class: 114
       Script: {instanceID: 10870}
     - Class: 114
       Script: {instanceID: 10944}
     - Class: 114
       Script: {instanceID: 10978}
     - Class: 114
-      Script: {instanceID: 11094}
+      Script: {instanceID: 11096}
     - Class: 114
-      Script: {instanceID: 11152}
+      Script: {instanceID: 11156}
     - Class: 114
-      Script: {instanceID: 11174}
+      Script: {instanceID: 11178}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 120
@@ -1850,6 +1856,12 @@ ScriptsOnlyBuild:
     className: Unparent
   - hash:
       serializedVersion: 2
+      Hash: c31ce657b8ddb839fedbf0ee4878d107
+    assemblyName: SteamVR.dll
+    namespaceName: 
+    className: SteamVR_TrackedController
+  - hash:
+      serializedVersion: 2
       Hash: f91cb688355a2c7124846064fa9b7918
     assemblyName: SteamVR.dll
     namespaceName: Valve.VR.InteractionSystem
@@ -1896,6 +1908,12 @@ ScriptsOnlyBuild:
     assemblyName: Unity.TextMeshPro.dll
     namespaceName: TMPro
     className: TMP_StyleSheet
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: ExpController
   - hash:
       serializedVersion: 2
       Hash: dcc608e96ec2ac8ad8de1fc54d7d0b7a
@@ -1950,6 +1968,12 @@ ScriptsOnlyBuild:
     assemblyName: SteamVR.dll
     namespaceName: Valve.VR.InteractionSystem.Sample
     className: TargetMeasurement
+  - hash:
+      serializedVersion: 2
+      Hash: ec0021064e603e51fd4299d0295d3bfc
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: ExperimentPosition
   - hash:
       serializedVersion: 2
       Hash: a7089f9264d52603b4e6e5c1fd3d2696
@@ -2016,12 +2040,6 @@ ScriptsOnlyBuild:
     assemblyName: Unity.Timeline.dll
     namespaceName: UnityEngine.Timeline
     className: PlayableTrack
-  - hash:
-      serializedVersion: 2
-      Hash: ec0021064e603e51fd4299d0295d3bfc
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: ExperimentPosition
   platform: 19
   scenePathNames:
   - Assets/Scenes/FightFlight.unity
